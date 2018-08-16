@@ -1,0 +1,188 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#container{
+    width: 780px;
+    margin: 0 auto;
+    box-shadow: 0px 9px 13px 5px;
+    display: block;
+}
+#header{
+    height:50px;
+    background-color:white;
+    text-align:left;
+    padding-top:30;
+    margin-top:0 auto;
+    font-size: 15;
+    color: black;
+}
+h1{
+    text-align: left;
+    padding-left: 15px;
+}
+h1 a{
+    color: black;
+}
+
+#menu{
+    height:30px;
+    width: auto;
+    background-color: cadetblue;
+    text-align:left;
+    margin-bottom:0 auto;
+    box-shadow: 0px 9px 13px 5px;
+    margin-bottom: 15px;
+    padding:2px 0 6px 0;
+}
+ul{
+    list-style-type: none; 
+    padding: 10px;
+    padding-left: 50px;
+
+
+}
+li{
+    display: inline;
+    color:white;
+    padding:6px 0 6px 0;
+    align-content: center;
+    text-align: left;
+
+}
+a{
+    color: white;
+    text-decoration: none;
+    padding:6px 0 6px 0;
+    text-align: left;
+    padding: 5px;
+}
+#sidebar{
+    width:26.1%;
+    background-color:white;
+    float:left;
+    padding-left:15px;
+    padding-top: 20px;
+}
+#sidebar p{
+    padding: 0 0 0 40px;
+}
+h1{
+    color: black;
+    font-family:sans-serif;
+    font-size: 20;
+    padding:0 0 0 50px;
+}
+h2{
+    color:forestgreen;
+    padding: 0 0 0 40px;
+}
+#mainbody{
+    width:70%;
+    /*    height:650px;*/
+    background-color:white;
+    float:right;
+    padding-right:15px;
+    padding-top: 45px;
+}
+img{height: auto;
+    width: 100%;
+}
+/********** style.css for contacts*******/
+input{
+
+    display: block;
+    width: 80%;
+    height: 25px;
+    border-radius: 5px;
+    background-color: lightgray;
+
+}
+#forms{
+
+    box-shadow: 0px 5px 13px 6px;
+    padding: 50px;
+    width: 500px;
+    margin:0 auto;
+    margin-bottom: 20px;
+    padding-top: 15px;  
+}
+#mainbodys{
+    color: forestgreen;
+    text-align: center;
+}
+
+#containers{
+    width: 780px;
+    margin: 0 auto;
+    box-shadow: 0px 9px 13px 5px;
+    display: block;
+}
+#headers{
+    height:20px;
+    background-color:white;
+    text-align:left;
+    padding-top:30px;
+    margin-top:0 auto;
+    vertical-align: middle;
+    padding: 80px 0 0 35px;
+    padding-left: 55px;
+    text-decoration-style: double;
+    color: black;
+}
+#headers h1{
+    color: black;
+    font-weight: 300;
+    font-weight: bold;
+}
+#menus{
+    height:auto;  
+    background-color: cadetblue;
+    text-align:left;
+    box-shadow: 0px 9px 13px 5px;
+
+
+}
+#menus li a{
+    color: white;
+    list-style-type: none;
+    text-decoration: none;
+    padding: 5px;
+    text-align: left;
+}
+
+#menus li{
+    display: inline;
+    text-decoration: none;
+    padding: 6px 0 6px 0;
+}
+#forms #message{
+    display: block;
+    width: 80%;
+    height: 150px;
+    background-color: lightgray;
+    padding-top: 15px;
+    padding: 0 6px 0 0;
+}
+#forms #file{
+    background-color: white;
+}
+
+#forms #submit {
+    display: block;
+    width: 50%;
+    height: 30px;
+    background-color:cadetblue;
+    margin: 0 auto;
+    padding: 0 6px 0 0;
+}
+#footer{
+    background-color:gainsboro;
+    clear: both;
+    text-align: center;
+    padding: 10px;
+
+}
+#footer a{
+    color: black;
+}
